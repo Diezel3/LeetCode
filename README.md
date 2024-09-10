@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/Diezel3/LeetCode/tree/master/0066-plus-one) |
+| [0088-merge-sorted-array](https://github.com/Diezel3/LeetCode/tree/master/0088-merge-sorted-array) |
 ## Math
 |  |
 | ------- |
@@ -37,4 +38,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Diezel3/LeetCode/tree/master/0070-climbing-stairs) |
+## Two Pointers
+|  |
+| ------- |
+| [0088-merge-sorted-array](https://github.com/Diezel3/LeetCode/tree/master/0088-merge-sorted-array) |
+## Sorting
+|  |
+| ------- |
+| [0088-merge-sorted-array](https://github.com/Diezel3/LeetCode/tree/master/0088-merge-sorted-array) |
 <!---LeetCode Topics End-->
