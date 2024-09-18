@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/Diezel3/LeetCode/tree/master/0011-container-with-most-water) |
 | [0016-3sum-closest](https://github.com/Diezel3/LeetCode/tree/master/0016-3sum-closest) |
+| [0033-search-in-rotated-sorted-array](https://github.com/Diezel3/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0066-plus-one](https://github.com/Diezel3/LeetCode/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/Diezel3/LeetCode/tree/master/0088-merge-sorted-array) |
 ## Math
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/Diezel3/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0069-sqrtx](https://github.com/Diezel3/LeetCode/tree/master/0069-sqrtx) |
 ## Dynamic Programming
 |  |
