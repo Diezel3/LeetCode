@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/Diezel3/LeetCode/tree/master/0016-3sum-closest) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Diezel3/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Diezel3/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0041-first-missing-positive](https://github.com/Diezel3/LeetCode/tree/master/0041-first-missing-positive) |
 | [0066-plus-one](https://github.com/Diezel3/LeetCode/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/Diezel3/LeetCode/tree/master/0088-merge-sorted-array) |
 ## Math
@@ -61,4 +62,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Diezel3/LeetCode/tree/master/0011-container-with-most-water) |
+## Hash Table
+|  |
+| ------- |
+| [0041-first-missing-positive](https://github.com/Diezel3/LeetCode/tree/master/0041-first-missing-positive) |
 <!---LeetCode Topics End-->
