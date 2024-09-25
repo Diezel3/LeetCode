@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/Diezel3/LeetCode/tree/master/0008-string-to-integer-atoi) |
+| [0043-multiply-strings](https://github.com/Diezel3/LeetCode/tree/master/0043-multiply-strings) |
 | [0058-length-of-last-word](https://github.com/Diezel3/LeetCode/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/Diezel3/LeetCode/tree/master/0067-add-binary) |
 ## Array
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/Diezel3/LeetCode/tree/master/0007-reverse-integer) |
+| [0043-multiply-strings](https://github.com/Diezel3/LeetCode/tree/master/0043-multiply-strings) |
 | [0066-plus-one](https://github.com/Diezel3/LeetCode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/Diezel3/LeetCode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Diezel3/LeetCode/tree/master/0069-sqrtx) |
@@ -32,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/Diezel3/LeetCode/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/Diezel3/LeetCode/tree/master/0067-add-binary) |
 ## Binary Search
 |  |
