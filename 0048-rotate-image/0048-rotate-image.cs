@@ -11,7 +11,7 @@ public class Solution {
                 temp[tempIndex] = matrix[i][j];
                 counter++;
                 tempIndex--;
-                break;
+                // break;
             }
             if (counter == matrix.Length)
             {
@@ -24,7 +24,7 @@ public class Solution {
                 break;
             }
         }
-        counter = 0;
+        // counter = 0;
         for (int i = 0; i < matrix.Length; i++)
         {
             for (int j = 0; j < matrix[i].Length; j++)
