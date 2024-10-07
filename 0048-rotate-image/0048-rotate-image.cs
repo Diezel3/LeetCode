@@ -6,13 +6,10 @@ public class Solution {
         int counter = 0;
         for (int i = 0; i < matrix.Length; i++)
         {
-            for (int j = columnValue; j == columnValue; j++)
-            {
-                temp[tempIndex] = matrix[i][j];
-                counter++;
-                tempIndex--;
-                // break;
-            }
+            temp[tempIndex] = matrix[i][columnValue];
+            counter++;
+            tempIndex--;
+            
             if (counter == matrix.Length)
             {
                 i = -1; 
@@ -24,7 +21,6 @@ public class Solution {
                 break;
             }
         }
-        // counter = 0;
         for (int i = 0; i < matrix.Length; i++)
         {
             for (int j = 0; j < matrix[i].Length; j++)
