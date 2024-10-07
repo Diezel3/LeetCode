@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Diezel3/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0041-first-missing-positive](https://github.com/Diezel3/LeetCode/tree/master/0041-first-missing-positive) |
 | [0045-jump-game-ii](https://github.com/Diezel3/LeetCode/tree/master/0045-jump-game-ii) |
+| [0048-rotate-image](https://github.com/Diezel3/LeetCode/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/Diezel3/LeetCode/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/Diezel3/LeetCode/tree/master/0088-merge-sorted-array) |
 ## Math
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/Diezel3/LeetCode/tree/master/0007-reverse-integer) |
 | [0043-multiply-strings](https://github.com/Diezel3/LeetCode/tree/master/0043-multiply-strings) |
+| [0048-rotate-image](https://github.com/Diezel3/LeetCode/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/Diezel3/LeetCode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/Diezel3/LeetCode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Diezel3/LeetCode/tree/master/0069-sqrtx) |
@@ -72,4 +74,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0041-first-missing-positive](https://github.com/Diezel3/LeetCode/tree/master/0041-first-missing-positive) |
+## Matrix
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/Diezel3/LeetCode/tree/master/0048-rotate-image) |
 <!---LeetCode Topics End-->
