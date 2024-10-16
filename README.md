@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/Diezel3/LeetCode/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/Diezel3/LeetCode/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/Diezel3/LeetCode/tree/master/0057-insert-interval) |
+| [0059-spiral-matrix-ii](https://github.com/Diezel3/LeetCode/tree/master/0059-spiral-matrix-ii) |
 | [0066-plus-one](https://github.com/Diezel3/LeetCode/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/Diezel3/LeetCode/tree/master/0088-merge-sorted-array) |
 ## Math
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/Diezel3/LeetCode/tree/master/0043-multiply-strings) |
+| [0059-spiral-matrix-ii](https://github.com/Diezel3/LeetCode/tree/master/0059-spiral-matrix-ii) |
 | [0067-add-binary](https://github.com/Diezel3/LeetCode/tree/master/0067-add-binary) |
 ## Binary Search
 |  |
@@ -85,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Diezel3/LeetCode/tree/master/0048-rotate-image) |
+| [0059-spiral-matrix-ii](https://github.com/Diezel3/LeetCode/tree/master/0059-spiral-matrix-ii) |
 ## Recursion
 |  |
 | ------- |
